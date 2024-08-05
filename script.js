@@ -1,3 +1,6 @@
+// timer code to run a specific job at a desired time every day
+// in Coordinated Universal Time (UTC).
+
 const msInSecond = 1000;
 const msInMinute = 60 * msInSecond;
 const msInHour = 60 * msInMinute;
@@ -32,3 +35,5 @@ function setupInterval() {
 function actualJob() {
     console.log('test');
 }
+
+// End timer 
