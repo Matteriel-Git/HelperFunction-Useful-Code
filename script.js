@@ -1,4 +1,6 @@
-// timer code to run a specific job at a desired time every day
+
+
+// TIMER CODE TO RUN A SPECIFIC JOB AT A DESIRED TIME EVERY DAY
 // in Coordinated Universal Time (UTC).
 
 const msInSecond = 1000;
@@ -36,8 +38,7 @@ function actualJob() {
     console.log('test');
 }
 
-// End timer 
-
+// END TIMER 
 
 
 
