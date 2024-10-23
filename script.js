@@ -1,7 +1,4 @@
-// **** Code ****
-
-
-// TIMER CODE TO RUN A SPECIFIC JOB AT DESIRED TIME EVERY DAY
+// timer code to run a specific job at a desired time every day
 // in Coordinated Universal Time (UTC).
 
 const msInSecond = 1000;
